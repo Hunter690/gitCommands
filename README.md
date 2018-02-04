@@ -7,7 +7,7 @@ $ touch README.md # create a file called README.md where you can put instruction
 $ git init # initialize your git repository locally
 $ git add . # adds everything changed from local to staging
 $ git commit -m "first commit" # commits everything in staging to be ready to be pushed to Github
-$ git remote add origin https://github.com/quinnliu/GitCommands.git
+$ git remote add origin https://github.com/Hunter690/GitCommands.git
 $ git push -u origin master # the "-u" is so that the next time your push you don't need to type "origin master"
 # put in a username & password
 ```
